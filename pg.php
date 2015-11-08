@@ -54,7 +54,7 @@
       </div>
     </div>
     <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
-<form action="https:///sandbox.pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
+<form action="https://sandbox.pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
 <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
 <input type="hidden" name="currency" value="BRL" />
 <input type="hidden" name="receiverEmail" value="worldvision3d@gmail.com" />
@@ -63,4 +63,11 @@
 <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
   </body>
 
+<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+<form action="https://sandbox.pagseguro.uol.com.br/checkout/v2/payment.html" method="post">
+<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+<input type="hidden" name="code" value="D280D3D5FEFEB8DAA4125FBBE10BB074" />
+<input type="image" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/pagamentos/209x48-comprar-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+</form>
+<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
 </html>
