@@ -10,8 +10,7 @@
     <link href="http://pingendo.github.io/pingendo-bootstrap/themes/default/bootstrap.css"
     rel="stylesheet" type="text/css">
   </head>
-  
-  <body>
+<body>
     <div class="section">
       <div class="container">
         <div class="row">
