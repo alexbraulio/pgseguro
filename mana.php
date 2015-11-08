@@ -15,7 +15,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <img src="img/alex.jpg"
+            <img src="img/alex.gif"
             class="img-responsive">
           </div>
           <div class="col-md-6">
