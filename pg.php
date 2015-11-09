@@ -66,7 +66,7 @@
 <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
 <form action="https://sandbox.pagseguro.uol.com.br/checkout/v2/payment.html" method="post">
 <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<input type="hidden" name="code" value="D280D3D5FEFEB8DAA4125FBBE10BB074" />
+<input type="hidden" name="code" value="654F7DD4CBCE49CBB3CCF1C74E9DD5F7" />
 <input type="image" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/pagamentos/209x48-comprar-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
 </form>
 <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
